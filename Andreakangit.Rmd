@@ -1,0 +1,15 @@
+---
+title: "Andreakangit"
+author: "Andrea"
+date: "9/3/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+sejt <- c(2, 3, 4)
+```
+
